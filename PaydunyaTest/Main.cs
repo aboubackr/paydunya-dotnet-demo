@@ -28,7 +28,7 @@ namespace PaydunyaTest
             PaydunyaStore store = new PaydunyaStore
             {
                 Name = "Magasin Chez Sandra",
-                Tagline = "L'élégance n'a pas de prix",
+                Tagline = "L'elegance n'a pas de prix",
                 PhoneNumber = "336530583",
                 PostalAddress = "Dakar Plateau - Etablissement kheweul",
                 LogoUrl = "http://www.chez-sandra.sn/logo.png",
